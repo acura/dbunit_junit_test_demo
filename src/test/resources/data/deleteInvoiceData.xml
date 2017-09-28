@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<T_INVOICE id="1" invoice_date="2017-10-28" invoice_no="INV000002" currency="UK" vat="20.00" vat_amount="300.00" net_amount="500.00" total_amount="600.00" discount="2.00" discount_amount="21.00"/>
+	<T_INVOICE id="2" invoice_date="2017-10-28" invoice_no="INV000002" currency="UK" vat="20.00" vat_amount="300.00" net_amount="500.00" total_amount="600.00" discount="2.00" discount_amount="21.00"/>
+</dataset>
+
